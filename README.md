@@ -1,81 +1,59 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/aravind-babu-indrapally-633373326" target="_blank">Aravind</a></h1>
+<h1 align="center">Hello, I am <a href="https://www.linkedin.com/in/aravind-babu-indrapally-633373326" target="_blank">Aravind</a> 👋</h1>
 <h2 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/aravind-babu-indrapally-633373326" target="_blank">Aravind</a></h2>
-<h3 align="center">CS Student | Learning by Building | Aspiring Software Developer</h3>
 
----
+<p align="center">
+  I'm a CS student from India, passionate about learning and building real-world software through clean, consistent effort.
+</p>
 
-## 👨‍💻 About Me
-
-🎓 I'm a B.Tech student on a serious mission to **master computer science** from the ground up.  
-💡 I'm not just learning theory — I believe in **building real projects**, solving real problems, and learning by doing.  
-📌 Every project I build will be shared here on GitHub — clean, real, and open source.
-
----
-
-## 🎯 My Mission
-
-To go from beginner to professional by learning step by step, staying consistent, and building a portfolio that shows skill, discipline, and growth.
-
----
-
-## 🔭 I’m Currently Working On
-
-- 🚀 Mastering **C++**, **Java**, and **Python**
-- 📱 Building Android apps using **XML** and **Firebase**
-- 🧠 Strengthening **Data Structures & Algorithms (DSA)**
-- 🌐 Learning web basics like **HTML**, **CSS**, **JS**
-- 🛠️ Practicing **Software Development** and **Git & GitHub**
-
----
-
-## 📚 How I Learn
-
-I don’t chase shortcuts. I prefer:
-- ✅ Clear, structured explanations
-- ✅ Hands-on coding
-- ✅ Real-world application
-- ✅ Continuous improvement through feedback
-
----
-
-## 🛠️ Languages and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/XML-e44d26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  🌐 Follow my learning journey on  
+  <a href="https://www.instagram.com/_aravind._.79" target="_blank">Instagram</a> and  
+  <a href="https://www.linkedin.com/in/aravind-babu-indrapally-633373326" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🛰 Current Endeavors
 
-![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind7979&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind7979&layout=compact&theme=github_dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aravind7979&theme=github-dark)
+- 🧠 Deep-diving into **Data Structures & Algorithms**
+- 📱 Building Android apps using **Firebase** & **XML**
+- 💻 Practicing **C++**, **Java**, and **Python**
+- 🔧 Exploring **Git & GitHub**, and real-world software practices
+- 🌱 Learning basic **Web Development** (HTML, CSS, JS)
 
 ---
 
-## 🔗 What You’ll See on My GitHub
+## 🛠️ Tech Stack
 
-- Clean code with clear commits  
-- Mini and full projects in C++, Java  
-- Android app experiments and complete apps  
-- My transparent growth — from student to skilled developer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,firebase,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aravind7979&show_icons=true&theme=github_dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind7979&layout=compact&theme=github_dark" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravind7979&theme=github-dark" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:aravindindrapally79@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_aravind._.79" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aravind-babu-indrapally-633373326" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 

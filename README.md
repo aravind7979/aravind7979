@@ -7,7 +7,7 @@ To go from beginner to professional by learning step by step, staying consistent
 
 ### 🛠️ What I'm Focused On
 - **Programming Languages**: C++, Java (OOP, Problem Solving)
-- **Development**: Android apps (XML, Firebase), basic web development
+- **Development**:Software Development, Android apps (XML, Firebase), basic web development
 - **Core CS Concepts**: DSA, OOP, Git & GitHub
 - **Project Building**: Sharing everything I build — clean, real, and open source
 

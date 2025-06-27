@@ -32,7 +32,7 @@ I don’t chase shortcuts. I prefer:
 
 ## 🔗 What You’ll See on My GitHub
 - Clean code with clear commits
-- Mini and full projects in C++, Python, Java
+- Mini and full projects in C++, Java
 - Android app experiments and complete apps
 - My transparent growth — from student to skilled developer
 

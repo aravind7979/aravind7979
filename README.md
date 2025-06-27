@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aravind</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/aravind-babu-indrapally-633373326" target="_blank">Aravind</a></h1>
+<h2 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/aravind-babu-indrapally-633373326" target="_blank">Aravind</a></h2>
 <h3 align="center">CS Student | Learning by Building | Aspiring Software Developer</h3>
 
 ---
@@ -73,7 +74,7 @@ I don’t chase shortcuts. I prefer:
   <a href="mailto:aravindindrapally79@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/alightsales" target="_blank">
+  <a href="https://www.instagram.com/_aravind._.79" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>

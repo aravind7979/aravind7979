@@ -12,7 +12,8 @@
 
 ---
 
-## Current Endeavors
+## Ongoing Initiatives
+
 
 - Deep-diving into **Data Structures & Algorithms**
 - Building Android apps using **Firebase** & **XML**

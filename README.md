@@ -16,11 +16,10 @@
 
 
 - Deep-diving into **Data Structures & Algorithms**
-- Building Android apps using **Firebase** & **XML**
 - Practicing **C++**, **Java**, and **Python**
 - Exploring **Git & GitHub**, and real-world software practices
 - Learning basic **Web Development** (HTML, CSS, JS)
-
+- Building Android apps using **Firebase** & **XML**
 ---
 
 ## Tech Stack
